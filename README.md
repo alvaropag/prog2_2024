@@ -1,3 +1,2 @@
-Ruan Piccolli
-# Prog2_2024
+# prog2_2024
 Teste do git
